@@ -1,6 +1,10 @@
 # Admin Management and Authentication Service
 This project is an admin management and authentication service built using Spring Boot, Spring Security, and JSON Web Tokens (JWT). It provides a secure and efficient way to manage admin users, authenticate them using email and password, and generate JWTs for accessing protected resources. Additionally, admins have the ability to add other admins and activate or deactivate their accounts.
 
+## Deployemnt:
+
+https://admin-service-api.onrender.com
+
 ## Features:
 - User Authentication: Admin users can log in using their email and password.
 - JSON Web Tokens (JWT): After successful authentication, admins receive a JWT that can be used to access protected resources.
